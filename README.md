@@ -1,5 +1,6 @@
 # CANDO
 Dont Give up in your Dreams, You Can Do It.
+<img width="952" alt="Screen Shot 1444-06-21 at 3 37 06 AM" src="https://user-images.githubusercontent.com/89577368/212479732-3dfde50a-708d-45af-a8ba-e4a1ece44434.png">
 
 # Challenge statement 
 Make an inclusive solution that help people with physical disability.
